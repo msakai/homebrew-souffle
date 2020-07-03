@@ -3,7 +3,7 @@ class Souffle < Formula
   homepage "https://github.com/souffle-lang/souffle/wiki"
   stable do
     url "https://dl.bintray.com/souffle-lang/osx/souffle-2.0.0.tar.gz"
-    sha256 "92d0cdf4aab9bec052b207e47a64d621a4c4c4f7740292095d749ac19b0cd84a"
+    sha256 "71106c3d04468ed7aba0352a81dc3c8ae14c471addad24fcf425ff3a1c0715fd"
   end
   head "https://github.com/souffle-lang/souffle.git", :shallow => false
 
